@@ -1,3 +1,15 @@
+# Landing Page Barbearia em ReactJS
+* Utilizado o Hook useState para administrar a mudança de estado do modo-claro para o modo-escuro e vice-versa
+
+## Layout modo-claro
+![image](https://github.com/Lucasgyn94/landing-page-barbearia/assets/91031320/7a4318f7-1c9a-4833-aebc-1f096fdb6375)
+
+## Layout modo-escuro
+![image](https://github.com/Lucasgyn94/landing-page-barbearia/assets/91031320/d75a4f14-109f-461b-be13-da4e4b034188)
+
+## Site
+https://landing-page-barbearia-tau.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
